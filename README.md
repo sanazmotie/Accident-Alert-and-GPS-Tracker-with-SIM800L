@@ -34,10 +34,8 @@ This project enhances fleet safety and efficiency by using IoT technology with *
 - Data is sent to ThingsBoard via GPRS for real-time visualization.
 - ThingsBoard triggers alerts and logs data for analysis.
 
-### 5. Future Enhancements
-- **Environmental Monitoring:** Adding temperature and humidity sensors.
-- **Geofencing:** Alerts for vehicles leaving predefined areas.
-- **Driver Behavior Analysis:** Enhanced monitoring with AI integration.
+## Contributors
+- **Sanaz Motie** (GitHub: [SanazMotie](https://github.com/sanazmotie))
+-  **Mehdi Moosaviun** (GitHub: [MehdiMoosaviun](https://github.com/tsSMehdiM))
 
-## Conclusion
-This project demonstrates the effective use of **ESP32**, **SIM800L**, **MPU6050**, and **ThingsBoard** in creating a powerful IoT solution for fleet management.
+
