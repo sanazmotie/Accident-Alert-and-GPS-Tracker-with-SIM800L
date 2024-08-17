@@ -35,7 +35,7 @@ This project enhances fleet safety and efficiency by using IoT technology with *
 - ThingsBoard triggers alerts and logs data for analysis.
 
 ## Contributors
-- **Sanaz Motie** (GitHub: [SanazMotie](https://github.com/sanazmotie))
--  **Mehdi Moosaviun** (GitHub: [MehdiMoosaviun](https://github.com/tsSMehdiM))
+-  [SanazMotie](https://github.com/sanazmotie)
+-  [MehdiMoosaviun](https://github.com/tsSMehdiM)
 
 
