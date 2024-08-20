@@ -2,6 +2,10 @@
 
 ## Introduction
 
+This project was developed as part of the IoT course at Iran University of Science and Technology. It was collaboratively worked on by [MehdiMoosaviun](https://github.com/tsSMehdiM) and [SanazMotie](https://github.com/sanazmotie). The project aims to enhance fleet safety and efficiency using IoT technologies, specifically **ESP32**, **SIM800L**, **MPU6050**, and **ThingsBoard**.
+
+## Introduction
+
 This project was developed as part of the IoT course at Iran University of Science and Technology. It aims to enhance fleet safety and efficiency using IoT technologies, specifically **ESP32**, **SIM800L**, **MPU6050**, and **ThingsBoard**.
 
 ## Process
