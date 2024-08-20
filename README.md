@@ -1,8 +1,8 @@
 # Fleet Driver Monitoring and Management using IoT
 
-## Project Overview
+## Introduction
 
-This project enhances fleet safety and efficiency by using IoT technology with **ESP32**, **SIM800L**, **MPU6050**, and **ThingsBoard**. The system monitors driver behavior, vehicle location, and environmental conditions in real-time, providing actionable insights for fleet managers.
+This project was developed as part of the IoT course at Iran University of Science and Technology. It aims to enhance fleet safety and efficiency using IoT technologies, specifically **ESP32**, **SIM800L**, **MPU6050**, and **ThingsBoard**.
 
 ## Process
 
